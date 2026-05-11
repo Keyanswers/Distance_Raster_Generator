@@ -234,4 +234,4 @@ This project is licensed under the MIT License.
 
 # Author
 
-Juan Rubio
+Juan Carlos Rubio Polania
