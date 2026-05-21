@@ -4,6 +4,8 @@ author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-05-11"
 ---
 
+# From Raster to Distance Raster in R 🌍📏
+
 ## Overview
 
 This repository presents a general workflow for transforming a categorical raster into a distance raster using R.
@@ -213,8 +215,8 @@ The final dataset contains:
 This workflow can be adapted for:
 - Habitat suitability models
 - Ecological studies
-- Marine spatial analysis
 - Hydrological analysis
+- Marine spatial analysis
 - Environmental GIS workflows
 - Remote sensing applications
 - Infrastructure analysis
