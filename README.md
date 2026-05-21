@@ -1,4 +1,8 @@
-# From Raster to Distance Raster in R 🌍📏
+---
+title: "From Raster to Distance Raster in R 🌍📏️"
+author: "Juan Carlos Rubio Polania, PhD"
+date: "2024-05-11"
+---
 
 ## Overview
 
@@ -209,8 +213,8 @@ The final dataset contains:
 This workflow can be adapted for:
 - Habitat suitability models
 - Ecological studies
-- Hydrological analysis
 - Marine spatial analysis
+- Hydrological analysis
 - Environmental GIS workflows
 - Remote sensing applications
 - Infrastructure analysis
@@ -234,4 +238,4 @@ This project is licensed under the MIT License.
 
 # Author
 
-Juan Carlos Rubio Polania
+Juan Rubio
